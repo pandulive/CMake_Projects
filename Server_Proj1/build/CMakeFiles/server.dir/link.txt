@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/server.dir/src/server.cpp.o -o /home/pandu/Documents/Pandu++/CMake_Projects/Server_Proj1/bin/server
